@@ -1,0 +1,72 @@
+QMANOID AMIGA
+
+compiler einrichten - DONE
+
+git einrichten - DONE
+
+
+MILESTONE 1
+
+screen oeffnen - WIP - kein titel etc
+
+multitasking unterbinden
+
+auf frameende warten - DONE
+
+sprite darstellen - DONE
+sprite bewegen - DONE
+
+Ctrl-C beendet programm
+
+floats benutzen
+
+tastatur abfragen
+
+joystick abfragen
+
+schiff bewegen mit physik
+
+kollision mit anderen schiffen
+
+kollision mit waenden
+
+abprallen
+
+vertikales scrolling
+
+level verlassen
+
+
+MILESTONE 2
+
+iff datei laden fuer hintergrund
+
+level datei aus Tilestudio reinladen
+
+tileset plotten
+
+naechsten level nachladen
+
+
+MILESTONE 3
+
+iff datei laden fuer sprites 
+
+sprites animieren
+
+unterschiedliche gegner typen
+
+enemy datei aus Tilestudio reinladen
+
+explosionen
+
+soundeffekte
+
+
+MILESTONE 4
+
+titelbildschirm
+
+musik abspielen
+
+outro bildschirm
