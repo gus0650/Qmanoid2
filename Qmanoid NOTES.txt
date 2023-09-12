@@ -1,3 +1,13 @@
 QMANOID AMIGA - Notizen
 =======================
 
+Tools
+-----
+
+compiler: VBCC
+
+musikprogramm: ahx or protracker?
+
+grafikprogramm: dpaint
+
+level editor: TileStudio 3.0
