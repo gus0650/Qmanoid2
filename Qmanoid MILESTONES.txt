@@ -58,12 +58,18 @@ unterschiedliche gegner typen
 
 enemy datei aus Tilestudio reinladen
 
+
+MILESTONE 4
+
+copperlist sky
+
 explosionen
 
 soundeffekte
 
 
-MILESTONE 4
+
+MILESTONE 5
 
 titelbildschirm
 
